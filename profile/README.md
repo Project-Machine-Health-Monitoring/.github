@@ -1,4 +1,4 @@
-# Hi there 👋
+# Smart Wireless Sensor for Machine’s Health Condition Monitoring
 
 ## Project Overview:
 - Monitoring machine health is crucial for minimizing risks and financial losses.
