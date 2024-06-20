@@ -1,7 +1,7 @@
 # Smart Wireless Sensor for Machine’s Health Condition Monitoring
 
 ## Done by:
-- Ali Adel Abdulla
+- [Ali Adel Abdulla](https://github.com/AliAdelAbdulla)
 - [Imran Nasir](https://github.com/imrun10)
 - Shahd Hamad
 
