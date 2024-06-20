@@ -1,5 +1,10 @@
 # Smart Wireless Sensor for Machine’s Health Condition Monitoring
 
+## Done by:
+- Ali Adel Abdulla
+- Imran Nasir
+- Shahd Hamad
+
 ## Project Overview:
 - Monitoring machine health is crucial for minimizing risks and financial losses.
 - Vibrational analysis is an effective method for evaluating machine conditions.
