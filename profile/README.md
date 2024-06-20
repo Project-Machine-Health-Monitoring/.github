@@ -2,7 +2,7 @@
 
 ## Done by:
 - Ali Adel Abdulla
-- [Imran Nasir] (https://github.com/imrun10)
+- [Imran Nasir](https://github.com/imrun10)
 - Shahd Hamad
 
 ## Project Overview:
