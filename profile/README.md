@@ -3,7 +3,7 @@
 ## Done by:
 - [Ali Adel Abdulla](https://github.com/AliAdelAbdulla)
 - [Imran Nasir](https://github.com/imrun10)
-- Shahd Hamad
+- [Shahd Hamad](https://github.com/Shahdhamadd)
 
 ## Project Overview:
 - Monitoring machine health is crucial for minimizing risks and financial losses.
