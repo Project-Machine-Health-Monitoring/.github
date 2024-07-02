@@ -5,6 +5,9 @@
 - [Imran Nasir](https://github.com/imrun10)
 - [Shahd Hamad](https://github.com/Shahdhamadd)
 
+## Reference:
+Abdulla, A., Hamad, S., & Nasir, I. (2024). Smart Wireless Sensor for Machine’s Health Condition Monitoring (Version 1). American University of Bahrain. [https://doi.org/10.58014/aubh.25997221.v1](https://doi.org/10.58014/aubh.25997221.v1)
+
 ## Project Overview:
 - Monitoring machine health is crucial for minimizing risks and financial losses.
 - Vibrational analysis is an effective method for evaluating machine conditions.
