@@ -5,6 +5,8 @@
 - [Imran Nasir](https://github.com/imrun10)
 - [Shahd Hamad](https://github.com/Shahdhamadd)
 
+_[Click here to view presentation](https://www.canva.com/design/DAGBkkvdBTg/qTvsP044nI8AJt9UM_PMbw/view?utm_content=DAGBkkvdBTg&utm_campaign=designshare&utm_medium=link&utm_source=editor)_
+
 ## Reference:
 Abdulla, A., Hamad, S., & Nasir, I. (2024). Smart Wireless Sensor for Machine’s Health Condition Monitoring (Version 1). American University of Bahrain. [https://doi.org/10.58014/aubh.25997221.v1](https://doi.org/10.58014/aubh.25997221.v1)
 
