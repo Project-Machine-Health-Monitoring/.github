@@ -1,11 +1,13 @@
 # Smart Wireless Sensor for Machine’s Health Condition Monitoring
 
 ## Done by ([Click here to view presentation](https://www.canva.com/design/DAGBkkvdBTg/qTvsP044nI8AJt9UM_PMbw/view?utm_content=DAGBkkvdBTg&utm_campaign=designshare&utm_medium=link&utm_source=editor)):
+
 - Ali Adel Abdulla
 - Imran Nasir
 - Shahd Hamad
 
 ## Citation:
+
 If you use this work in your research, please cite it as:
 
 ```bibtex
