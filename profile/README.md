@@ -17,6 +17,7 @@ If you use this work in your research, please cite it as:
   url = "https://aubh.figshare.com/articles/thesis/_b_Smart_Wireless_Sensor_for_Machine_s_b_b_Health_Condition_Monitoring_b_/25997221",
   doi = "10.58014/aubh.25997221.v1"
 }
+```
 
 ## Project Overview:
 - Monitoring machine health is crucial for minimizing risks and financial losses.
