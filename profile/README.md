@@ -1,12 +1,22 @@
 # Smart Wireless Sensor for Machine’s Health Condition Monitoring
 
-## Done by:
-- [Ali Adel Abdulla](https://github.com/AliAdelAbdulla)
-- [Imran Nasir](https://github.com/imrun10)
-- [Shahd Hamad](https://github.com/Shahdhamadd)
+## Done by ([Click here to view presentation](https://www.canva.com/design/DAGBkkvdBTg/qTvsP044nI8AJt9UM_PMbw/view?utm_content=DAGBkkvdBTg&utm_campaign=designshare&utm_medium=link&utm_source=editor)):
+- Ali Adel Abdulla
+- Imran Nasir
+- Shahd Hamad
 
-## Reference ([Click here to view presentation](https://www.canva.com/design/DAGBkkvdBTg/qTvsP044nI8AJt9UM_PMbw/view?utm_content=DAGBkkvdBTg&utm_campaign=designshare&utm_medium=link&utm_source=editor)):
-Abdulla, A., Hamad, S., & Nasir, I. (2024). Smart Wireless Sensor for Machine’s Health Condition Monitoring (Version 1). American University of Bahrain. [https://doi.org/10.58014/aubh.25997221.v1](https://doi.org/10.58014/aubh.25997221.v1)
+## Citation:
+If you use this work in your research, please cite it as:
+
+```bibtex
+@article{Abdulla2024,
+  author = "Ali Abdulla and Shahd Hamad and Imran Nasir",
+  title = "{Smart Wireless Sensor for Machine’s Health Condition Monitoring}",
+  year = "2024",
+  month = "6",
+  url = "https://aubh.figshare.com/articles/thesis/_b_Smart_Wireless_Sensor_for_Machine_s_b_b_Health_Condition_Monitoring_b_/25997221",
+  doi = "10.58014/aubh.25997221.v1"
+}
 
 ## Project Overview:
 - Monitoring machine health is crucial for minimizing risks and financial losses.
